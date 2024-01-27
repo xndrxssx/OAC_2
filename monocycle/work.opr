@@ -1,0 +1,20 @@
+"mux25.vhd" VHDL work 1 0 0 -02 -08 -18
+"rom.vhd" VHDL work 1 0 0 -02 -08 -18
+"rreg32.vhd" VHDL work 1 0 0 -02 -08 -18
+"mux35.vhd" VHDL work 1 0 0 -02 -08 -18
+"ram.vhd" VHDL work 1 0 0 -02 -08 -18
+"registers.vhd" VHDL work 1 0 0 -02 -08 -18
+"mux332.vhd" VHDL work 1 0 0 -02 -08 -18
+"mux232.vhd" VHDL work 1 0 0 -02 -08 -18
+"control.vhd" VHDL work 1 0 0 -02 -08 -18
+"alu.vhd" VHDL work 1 0 0 -02 -08 -18
+"alucontrol.vhd" VHDL work 1 0 0 -02 -08 -18
+"adder32.vhd" VHDL work 1 0 0 -02 -08 -18
+"decode.vhd" VHDL work 1 0 0 -02 -08 -18
+"fetch.vhd" VHDL work 1 0 0 -02 -08 -18
+"execute.vhd" VHDL work 1 0 0 -02 -08 -18
+"writeback.vhd" VHDL work 1 0 0 -02 -08 -18
+"memoryAccess.vhd" VHDL work 1 0 0 -02 -08 -18
+"design.vhd" VHDL work 1 0 0 -02 -08 -18
+"testbench.vhd" VHDL work 1 0 0 -02 -08 -18
+. . 0 0 0

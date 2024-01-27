@@ -1,0 +1,5 @@
+--myRISC_Example1.asm (Test for ADD, ADDI and J instructions)
+--myRISC_Example2.asm (Test for AND, OR and BEQ instructions)
+--myRISC_Example3.asm (Test for XOR and SLT instructions)
+--myRISC_Example4.asm (Test for SUB and BNE instructions)
+--myRISC_Example5.asm (Test for SW and LW instructions)
